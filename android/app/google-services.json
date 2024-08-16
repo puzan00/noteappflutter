@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719002061183",
+    "project_id": "note-3a1df",
+    "storage_bucket": "note-3a1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719002061183:android:6bab5475d6c0ad2b82724a",
+        "android_client_info": {
+          "package_name": "com.example.n"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0qiAC9yDmbalr4I5kduIMKYaB0AnLoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719002061183:android:14cef08b98fcff8582724a",
+        "android_client_info": {
+          "package_name": "com.example.notetaking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0qiAC9yDmbalr4I5kduIMKYaB0AnLoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
